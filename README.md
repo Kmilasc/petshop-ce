@@ -1,5 +1,7 @@
 # 🐾 PetShop — E-commerce MVP
 
+**Deploy:** https://petshop-ce.onrender.com
+
 E-commerce de pets construído com TanStack Start, PostgreSQL e Drizzle ORM.
 
 ## Stack
